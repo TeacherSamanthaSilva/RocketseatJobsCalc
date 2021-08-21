@@ -1,0 +1,20 @@
+{
+  "name": "RocketseatJobsCalc",
+  "version": "1.0.0",
+  "description": "Calculadora desenvolvida na segunda edição da Maratona Discover da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc/issues"
+  },
+  "homepage": "https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc#readme"
+}
