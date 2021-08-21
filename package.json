@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc/issues"
   },
-  "homepage": "https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc#readme"
+  "homepage": "https://github.com/TeacherSamanthaSilva/RocketseatJobsCalc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
